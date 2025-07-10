@@ -1,0 +1,58 @@
+User-agent: *
+Disallow: /THIS-IS-THE-LINK-TO-THE-SECOND-STEP
+
+########################
+#
+# People that have earned the title of SEO Specialist:
+#
+# 1. Ankur Bhatia
+# 2. Joseph Chen
+# 3. Luda Zhou
+# 4. Brian de Luna
+# 5. Emily Sun
+# 6. Sam Shadwell
+# 7. Brian Bensch
+# 8. Clare Liu
+# 9. Paul Song
+# 10. Brian Wolfe
+# 11. Thai Nguyen
+# 12. Jeremy Huang
+# 13. Michael Musson
+# 14. Sean Abraham
+# 15. Andrew Chen
+# 16. Esther Wang
+# 17. Chirag Patel
+# 18. Vincent Chen
+# 19. Michelle Tian
+# 20. Nikolai Semenenko
+# 21. Emily Cheng
+# 22. Nick Reynolds
+# 23. Mack Yi
+# 24. Dzmitry Kishylau
+# 25. Mark Vlcek
+# 26. Philbert Lin
+# 27. Lisa Yang
+# 28. Machiel Schepers
+# 29. Ortal Ya
+# 30. Fred Wenzel
+# 31. Lucas Chevillard
+# 32. Sean O'Donnell
+# 33. Benno Heidger
+# 34. Reed Daw
+# 35. Auster Chen
+# 36. Patrick Yoon
+# 37. Fabien David
+# 38. Peter Luu
+# 39. Li Jiao
+# 40. Judy Jow
+# 41. Dylan Harris
+# 42. Erin Fett
+# 43. Kenji Hagiwara
+# 44. Sungho Cho
+# 45. Catherine Tan
+# 46. Jordan Harband
+# 47. Elise Eid
+# 48. Dasol Yoon
+# 49. Stephen Chan
+# 50. Aleck Landgraf
+# 51. Shania Cheng

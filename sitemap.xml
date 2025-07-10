@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- Robots do check the sitemap.  But they also check one more text file to see where they're allowed to go to and disallowed. -->
+<!-- Good attempt though. You're thinking along the right path -->
+<url>
+  <loc>https://seoloveletter.github.io/</loc>
+  <lastmod>2018-10-03T20:54:49+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://seoloveletter.github.io/letter/clueless</loc>
+  <lastmod>2018-10-03T20:54:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seoloveletter.github.io/letter/i-have-no-idea</loc>
+  <lastmod>2018-10-03T20:54:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seoloveletter.github.io/letter/call-me-maybe</loc>
+  <lastmod>2018-10-03T20:54:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+</urlset>
